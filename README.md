@@ -20,8 +20,14 @@ Products Gallery App is a responsive and modern web application for displaying p
 Live Demo: https://task-one-topaz.vercel.app/
 
 ***Tech Stack Used***
+
 React Router Dom
+
 Axios
+
 React Query (TanStack)	
+
 Tailwindcss
+
 Font Awesome	
+
